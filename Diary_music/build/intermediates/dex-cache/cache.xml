@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8250614c358eec001896aa2717a64efd970248bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\f04e61132e8a904d531bf8bd58aadf4ee18fc41a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_045b6aae7918aae4f21ad1970ab8f2592734092b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5ebc37bd5f553e6600d1546ce1d9fd209ee07bb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\d9781d6662d5000e985fcfa290304738f1bad0de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed35b91573e13b5a94c8ca83e49a719e90b4e5ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\67bb70ae1efc0f2f72c5f2097a2a48b3b7ee80c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b7b49f978c14d46c3f63675480331b5911d3541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\8864396a07ce3bf2b2f1c9e8acd3a89980301aef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_469de8ab98ef66f66e9957a5e9788f3e54891310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2e17e2297db4c88899a4d0cb0b243fbc24dd5e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\c1fe08cd775c222ee9ebee62a8636af5f21843aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6443d0539aabc3218f2c08fa0d2787dcfb06f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\fbcc02824b4259a072ae66e0e0688c4ac0ed3caa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c58d02624c474212419ab8b0e070123679cb0c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\5f88cff65e6f677aa31f6f1f91e713af0d4c9d21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39ba01caddc9a55b3f95208f00a6167f87bd910f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\0854cecb97bd00c115ab47035bacf7212e1cd66c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b947fbaf4ffa5649f6a9f054f22d11860db4c179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\095ba4356eab6d3a3c23385b8be7a81686fef49b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64658b106dd3faafe95edde964a676834d1dcba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5bc563371e95a61c08a151d04097eeeeb1495d2f">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e841636fcd1f3f94234f5128b284008c793bffac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HAEJU\.android\build-cache\aa13b73c8c1cc92b9f2d8822c389635a6391b139\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\HAEJU\AndroidStudioProjects\Diary_music\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67618c8fa9ea738d06c6b5e3cc1697670cdb46e5\classes.dex" />
+    </item>
+
+</items>
