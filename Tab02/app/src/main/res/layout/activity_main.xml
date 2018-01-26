@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="right">
+        <Button
+            android:id="@+id/btn_fragment1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Index1"
+            android:textSize="20sp"
+            android:background="#C8E6C9"
+            android:layout_alignParentRight="true"/>
+        <Button
+            android:id="@+id/btn_fragment2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Index2"
+            android:textSize="20sp"
+            android:background="#FFF59D"
+            android:layout_below="@id/btn_fragment1"
+            android:layout_alignParentRight="true"/>
+        <Button
+            android:id="@+id/btn_fragment3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Index3"
+            android:textSize="20sp"
+            android:background="#B2EBF2"
+            android:layout_below="@id/btn_fragment2"
+            android:layout_alignParentRight="true"/>
+        <Button
+            android:id="@+id/btn_fragment4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Index4"
+            android:textSize="20sp"
+            android:background="#E1BEE7"
+            android:layout_below="@id/btn_fragment3"
+            android:layout_alignParentRight="true"/>
+
+        <FrameLayout
+            android:id="@+id/main_frame"
+            android:layout_width="296dp"
+            android:layout_height="match_parent"></FrameLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>
